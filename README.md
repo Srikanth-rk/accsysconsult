@@ -1,2 +1,0 @@
-# accsysconsult
-Website for accsysconsulting
